@@ -1,0 +1,14 @@
+<html>    
+    <head>
+        <h2><center>What locations in Austin get the most complaints about shared mobility?</center></h2>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    </head>
+    <body>
+        <div id="map">
+            <script>
+                Plotly.plot("map", {{ plot_data | safe }})
+            </script>
+		</div>
+    </body>
+</html>
+
