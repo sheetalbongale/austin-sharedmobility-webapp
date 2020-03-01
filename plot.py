@@ -7,7 +7,7 @@ import plotly.express as px
 
 def load_agg_data():
 
-    csv_path = os.path.join("static", "311data.csv")
+    csv_path = os.path.join("data", "311data.csv")
     df = pd.read_csv(csv_path)
     return df
 
