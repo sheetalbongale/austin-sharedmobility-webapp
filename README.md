@@ -1,9 +1,10 @@
-##  Scooters in Austin Data Analysis 
+#  Scooters in Austin Data Analysis
+---
+
+**Submitted by: Sheetal Bongale**
 
 This Repository demonstrates serving a Flask Web App for City of Austin's Open Data about Shared Mobility 311 Complaints and the Shared Mobility API.
 The Web app was deployed with Heroku. 
-
-Submitted by: Sheetal Bongale 
 
 Find the deployed web application [HERE.](https://atx-sharedmobility.herokuapp.com/)
 
